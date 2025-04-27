@@ -156,7 +156,7 @@ A Credit L<Card Security Code|http://wikipedia.org/wiki/Card_security_code> is
 a 3 or 4 digit number. This is also called CSC, CVV, CVC, and CID, depending
 on the issuing vendor.
 
-=type head2 CardExpiration
+=type CardExpiration
 
 B<Base Type:> C<DateTime>
 

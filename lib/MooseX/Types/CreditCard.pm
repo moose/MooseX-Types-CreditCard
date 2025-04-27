@@ -3,7 +3,7 @@ use 5.008;
 use strict;
 use warnings;
 
-# VERSION
+our $VERSION = '0.002004';
 
 use MooseX::Types -declare => [ qw(
 	CreditCard
